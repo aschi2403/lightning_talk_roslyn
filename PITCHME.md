@@ -59,3 +59,5 @@ Abstracts over common syntactic shapes
 for example: unified array[0] and Array<int>.Empty
 ## Syntax Generator
 can generate source code for C# and VB
+
+<!-- source: https://www.youtube.com/watch?v=nXljhGDokqA&t=2497s -->
